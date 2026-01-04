@@ -1,6 +1,6 @@
-#Tactile-Fabric(触觉布料)
+#Tactile
 
-#### Project Website(项目网页): https://smart-tactile-fabric.github.io/STF.github.io/
+#### Project Website(项目网页): https://github.com/1250554826/tectile-_sensor_touch
 
 
 ## 1. Firmware
