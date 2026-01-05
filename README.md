@@ -114,7 +114,7 @@ This project builds upon the foundational work of 3D-ViTac. If you use SynapTex 
 代码段
 
 ```
-@misc{jnu2025SynapTex,
+@misc{mjy2025SynapTex,
   title={SynapTex: A Smart Tactile Sensing Fabric},
   author={Ma, Jun and Yang},
   year={2025},
